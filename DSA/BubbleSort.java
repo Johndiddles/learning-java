@@ -1,3 +1,4 @@
+// time complexity O(n^2)
 public class BubbleSort {
     static int[] unsortedArray = {2,6,3,9,0,4,5};
     
